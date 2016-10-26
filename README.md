@@ -5,6 +5,9 @@ You can run this on your pc by downloading the zip file here: .... and then foll
 
 Note the System Requirements for running this:
 1. Must be run on Linux (no Windows or Mac support).
+
 2. Must have Java 1.7 + installed.
+
 3. Must have the voice synthesis package - festival installed. See this: http://www.festvox.org/festival/
+
 4. Must have VCLJ player to play the video.
