@@ -7,7 +7,7 @@ Note the System Requirements for running this:
 
 1. Must be run on Linux (no Windows or Mac support).
 
-2. Must have Java 1.7 + installed.
+2. Must have Java 1.7 (or greater) installed.
 
 3. Must have the voice synthesis package - festival installed. See this: http://www.festvox.org/festival/
 
