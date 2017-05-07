@@ -1,8 +1,4 @@
-# Welcome to my Voxspell Spelling Aid!
 This application has been developed using Java in a Linux environment as part of the SOFTENG 206 Project.
-
-You can run this on your pc by downloading the zip file here: http://www.filedropper.com/voxspelllinux
-
 And then following the instructions in the README file contained. See also the User Manual.
 
 Note the System Requirements for running this:
